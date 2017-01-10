@@ -2,6 +2,11 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
+
+		<!-- load custom here-->
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
+		<!-- ^this is an external style sheet -->
+
 		<title>HTML SANDBOX</title>
 	</head>
 	<body>
@@ -33,19 +38,23 @@
 				<!-- Row 2-->
 				<tr>
 					<th>Ford</th>
-					<th>Nissan</th>
+					<th>Toyota</th>
 				</tr>
 				<!-- Row 3-->
 				<tr>
 					<th>Chevy</th>
 					<th>Nissan</th>
 				</tr>
+				<!--Row 4 -->
 				<tr>
 					<th>Dodge</th>
 					<th>Subaru</th>
 				</tr>
+				<img src="/chevy.jpg"
 
 			</table>
+
+			<p>This is a link tag to <a href="https://google.com" target="_blank">Google</a></p>
 		</main>
 	</body>
 </html>
