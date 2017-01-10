@@ -4,5 +4,48 @@
 		<meta charset="utf-8" />
 		<title>HTML SANDBOX</title>
 	</head>
-	<body></body>
+	<body>
+		<header>
+			<h1>This is a demo page<h1>
+		</header>
+		<main>
+			<p> so if you right click on the number line and choose soft wrap, this will allow your paragraphs to stay in the column.</p>
+
+			<!-- This is a Comment -->
+			<h2>A Few of my Favorite Things.</h2>
+
+
+			<ul>
+				<li>cars</li>
+				<li>Photography</li>
+				<li>Graphic Design</li>
+				<li>ScreenPrinting</li>
+			</ul>
+
+
+			<h3>This is a Table</h3>
+			<table>
+				<!--Row one-->
+				<tr>
+					<th>column 1</th>
+					<th>column 2</th>
+				</tr>
+				<!-- Row 2-->
+				<tr>
+					<th>Ford</th>
+					<th>Nissan</th>
+				</tr>
+				<!-- Row 3-->
+				<tr>
+					<th>Chevy</th>
+					<th>Nissan</th>
+				</tr>
+				<tr>
+					<th>Dodge</th>
+					<th>Subaru</th>
+				</tr>
+
+			</table>
+		</main>
+	</body>
 </html>
