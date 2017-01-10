@@ -50,7 +50,7 @@
 					<th>Dodge</th>
 					<th>Subaru</th>
 				</tr>
-				<img src="/chevy.jpg"
+				<img src="/chevy.jpg" alt="chevy">
 
 			</table>
 
