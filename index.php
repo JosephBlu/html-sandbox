@@ -11,10 +11,10 @@
 	</head>
 	<body>
 		<header>
-			<h1>This is a demo page<h1>
+			<h1 class="foo-heading">This is a demo page<h1>
 		</header>
 		<main>
-			<p> so if you right click on the number line and choose soft wrap, this will allow your paragraphs to stay in the column.</p>
+			<p id="description">so if you right click on the number line and choose soft wrap, this will allow your paragraphs to stay in the column.</p>
 
 			<!-- This is a Comment -->
 			<h2>A Few of my Favorite Things.</h2>
@@ -50,11 +50,12 @@
 					<th>Dodge</th>
 					<th>Subaru</th>
 				</tr>
-				<img src="/chevy.jpg" alt="chevy" height="300" width="300">
+				<img src="/chevy.jpg" alt="1956 chevy" >
 
 			</table>
 
 			<p>This is a link tag to <a href="https://google.com" target="_blank">Google</a></p>
+			<div>This content is in a &lt;div</div>
 		</main>
 	</body>
 </html>
